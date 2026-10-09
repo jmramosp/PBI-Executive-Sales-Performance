@@ -26,7 +26,7 @@ The dashboard focuses on five key analytical areas:
 
 The Power BI data model includes two primary tables:
 
-### Sales Transactions — Datos
+### Sales Transactions
 
 Approximately 60,000 records containing:
 
@@ -38,7 +38,7 @@ Approximately 60,000 records containing:
 - Sales representatives
 - Branch identifiers
 
-### Branch Information — Sucursales
+### Subsidiaries
 
 Branch-level reference information containing:
 
