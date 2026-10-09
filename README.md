@@ -96,3 +96,5 @@ It highlights practical capabilities in data preparation, analytical modeling, K
 **JRAMOSP**
 
 BI & Data Engineering | Microsoft Certified
+
+[GitHub](https://github.com/jmramosp)
