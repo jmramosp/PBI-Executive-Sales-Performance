@@ -89,3 +89,10 @@ Development of an interactive executive dashboard featuring KPI cards, trend cha
 The solution demonstrates how transactional sales data can be transformed into a centralized analytical environment, supporting performance monitoring, profitability analysis, and data-driven business decisions.
 
 It highlights practical capabilities in data preparation, analytical modeling, KPI development, and executive dashboard design.
+
+
+## Author
+
+**JRAMOSP**
+
+BI & Data Engineering | Microsoft Certified
